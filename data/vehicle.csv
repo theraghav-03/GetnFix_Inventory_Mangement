@@ -1,0 +1,6 @@
+vehicle_id,make,model,year,type,engine
+1,honda,accord,2010,a,2.4l
+2,honda,civic,2011,a,2.4l
+3,toyota,camry,2012,s,3.6l
+4,toyota,prius,2013,s,2.4l
+5,toyota,rav4,2014,s,3.6l
