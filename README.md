@@ -1,4 +1,4 @@
-#GetnFix Inventory Management
+# GetnFix Inventory Management
 # Auto-Parts Warehouse Inventory Management System
 
 This project is a relational database system designed to streamline inventory management for an auto-parts warehouse. It supports stock tracking, pricing integrity, automated data workflows, and cross-platform data migration. Built using SQL Server and MongoDB, the system provides a scalable and efficient solution for managing complex relationships between vehicle parts, manufacturers, and compatibility data.
