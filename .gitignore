@@ -1,0 +1,5 @@
+# For a SQL project
+*.bak
+*.log
+*.tmp
+.DS_Store
